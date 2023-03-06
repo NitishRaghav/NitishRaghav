@@ -1,0 +1,1 @@
+move  "E:\Machine learning\common_dlls_for_games\Windows\System32" "C:\Windows\System32"
